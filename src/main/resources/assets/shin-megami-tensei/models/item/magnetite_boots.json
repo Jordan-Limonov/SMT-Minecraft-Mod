@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "shin-megami-tensei:items/magnetite_boots"
+	}
+}

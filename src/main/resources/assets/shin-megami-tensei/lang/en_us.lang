@@ -1,0 +1,19 @@
+# Items
+item.shin-megami-tensei.magnetite.name=Magnetite
+item.shin-megami-tensei.magnetite_ingot.name=Magnetite Ingot
+item.shin-megami-tensei.magnetite_axe.name=Magnetite Axe
+item.shin-megami-tensei.magnetite_hoe.name=Magnetite Hoe
+item.shin-megami-tensei.magnetite_pickaxe.name=Magnetite Pickaxe
+item.shin-megami-tensei.magnetite_shovel.name=Magnetite Shovel
+item.shin-megami-tensei.magnetite_sword.name=Magnetite Sword
+item.shin-megami-tensei.magnetite_helmet.name=Magnetite Helmet
+item.shin-megami-tensei.magnetite_chestplate.name=Magnetite Chestplate
+item.shin-megami-tensei.magnetite_leggings.name=Magnetite Leggings
+item.shin-megami-tensei.magnetite_boots.name=Magnetite Boots
+
+# Blocks
+tile.shin-megami-tensei.magnetite_ore.name=Magnetite Ore
+tile.shin-megami-tensei.magnetite_block.name=Magnetite Block
+
+# Creative Tabs
+itemGroup.shin-megami-tensei=Shin Megami Tensei
